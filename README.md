@@ -4,3 +4,5 @@ Easy lua obfuscator made in lua just made this to expend my lua knowledge
 Please dont remove any credits
 
 Supports Fivem and Roblox
+
+# RUN THE OBFUSCATOR TRUE THE BAT FILE!
